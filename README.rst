@@ -100,9 +100,9 @@ Origins
 
 Curator was first called ``clearESindices.py`` [1] and was almost immediately
 renamed to ``logstash_index_cleaner.py`` [1].  After a time it was migrated
-under the [logstash](https://github.com/elastic/logstash) repository as
+under the `logstash <https://github.com/elastic/logstash>` repository as
 ``expire_logs``.  Soon thereafter, Jordan Sissel was hired by Elasticsearch, as
 was the original author of this tool.  It became Elasticsearch Curator after
-that and is now hosted at <https://github.com/elastic/curator>
+that and is now hosted at `<https://github.com/elastic/curator>`
 
 [1] <https://logstash.jira.com/browse/LOGSTASH-211>
